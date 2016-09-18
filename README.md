@@ -1,3 +1,12 @@
-# OpenData_Bahnfahrplan_KampLintfort
+# Alle Züge (Kamp-Lintfort / NRW):
 
-All_Trains: <EOF>
+----------
+
+## Keine abfahrenden Züge in den nächsten 72 Stunden. ##
+
+----------
+
+## Keine ankommenden Züge in den nächsten 72 Stunden. ##
+
+
+----------
