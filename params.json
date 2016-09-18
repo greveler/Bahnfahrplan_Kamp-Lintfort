@@ -1,7 +1,7 @@
 {
-  "name": "Opendata bahnfahrplan kamplintfort",
+  "name": "Bahnfahrplan Kamp-Lintfort",
   "tagline": "",
-  "body": "# OpenData_Bahnfahrplan_KampLintfort\r\n\r\nAll_Trains: <EOF>\r\n",
+  "body": "# Alle Züge (Kamp-Lintfort / NRW):\r\n\r\n----------\r\n\r\n## Keine abfahrenden Züge in den nächsten 72 Stunden. ##\r\n\r\n----------\r\n\r\n## Keine ankommenden Züge in den nächsten 72 Stunden. ##\r\n\r\n\r\n----------\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
